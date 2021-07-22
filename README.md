@@ -8,5 +8,6 @@
 
 # 2. Descrição dos projetos:
 
- -> ex001: fase zero, conceito inicial com a apresentação mais famosa "Olá, Mundo!".
- -> ex002: 
+ -> ex001: fase zero, conceito inicial com a apresentação mais famosa em tela "Olá, Mundo!". Uso da função built-in print(). \n
+ -> ex002: entrada de dados com uso da função built-in input(), a qual retorna uma cadeia de caracteres por padrão.
+ -> ex003: 
