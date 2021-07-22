@@ -19,4 +19,10 @@
 
 ![image](https://user-images.githubusercontent.com/50182271/126665567-734f08af-7c28-4e38-8b8e-70c07e698cc8.png)
 
+-> ex004: 
+
+![image](https://user-images.githubusercontent.com/50182271/126666036-ca0e6de4-d1cd-4c47-82ad-56ca2e01d009.png)
+
+-> ex005: 
+
 
