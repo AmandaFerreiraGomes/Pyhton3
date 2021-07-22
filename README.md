@@ -2,6 +2,6 @@
 
 # Pyhton CursoEmVideo
 
-# Apresentação:
+# 1. Apresentação:
 
-  Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo.
+    Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo.
