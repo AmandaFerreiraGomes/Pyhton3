@@ -1,6 +1,3 @@
-""" Desafio 001: """
-
-
 def azul():
 	cores = {
 		'azul': '\033[34m'
@@ -17,19 +14,12 @@ def amarelo():
 	return cores['amarelo']
 
 
-def branco():
-	cores = {
-		'branco': '\033[30m'
-	}
-	return cores['branco']
-
-
 def vermelho():
 	cores = {
 		'vermelho': '\033[31m',
 	}
 	return cores['vermelho']
-	
+
 
 def verde():
 	cores = {
@@ -46,7 +36,9 @@ def roxo():
 
 
 # Programa Principal:
-
-print(f'{verde()}Olá, Mundo!')
-print(f'{roxo()}Olá, Mundo!')
-
+if __name__ == "__main__":
+	print(f'{verde()}Olá, Mundo!')
+	print(f'{roxo()}Olá, Mundo!')
+	print(f'{vermelho()}Olá, Mundo!')
+	print(f'{amarelo()}Olá, Mundo!')
+	print(f'{azul()}Olá, Mundo!')
