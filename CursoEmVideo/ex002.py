@@ -3,11 +3,11 @@
 
 
 def azul():
-	cores = {
-		'azul': '\033[34m'
-	}
-	return cores['azul']
+    cores = {
+        'azul': '\033[34m'
+    }
+    return cores['azul']
 
-
-a = input('Digite seu nome: ')
-print(f'É um prazer te conhecer, {azul()}{a}!')
+if __name__ == '__main__':
+    a = input('Digite seu nome: ')
+    print(f'É um prazer te conhecer, {azul()}{a}!')
