@@ -16,3 +16,7 @@
 ![ex002](https://user-images.githubusercontent.com/50182271/126665223-31ccbe29-5af9-4a05-b9b2-5854a6092b54.jpg)
 
 -> ex003: entrada de dados com a função built-in input() com transformação de caractere para inteiro com o uso da função int(), também própria do python 3. Apresento também uma função soma, a qual quando chamada imprime o resultado da soma de dois numeros inteiros. <br />
+
+![image](https://user-images.githubusercontent.com/50182271/126665567-734f08af-7c28-4e38-8b8e-70c07e698cc8.png)
+
+
