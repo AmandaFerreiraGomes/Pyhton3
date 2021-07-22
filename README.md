@@ -8,6 +8,6 @@
 
 # 2. Descrição dos projetos:
 
- -> ex001: fase zero, conceito inicial com a apresentação mais famosa em tela "Olá, Mundo!". Uso da função built-in print(). \n
- -> ex002: entrada de dados com uso da função built-in input(), a qual retorna uma cadeia de caracteres por padrão.
- -> ex003: 
+ -> ex001: fase zero, conceito inicial com a apresentação mais famosa em tela "Olá, Mundo!". Uso da função built-in print().<br />
+ -> ex002: entrada de dados com uso da função built-in input(), a qual retorna uma cadeia de caracteres por padrão.<br />
+ -> ex003: entrada de dados com a função built-in input() com transformação de caractere para inteiro com o uso da função int(), também própria do python 3. Apresento também uma função soma, a qual quando chamada imprime o resultado da soma de dois numeros inteiros. <br />
