@@ -8,6 +8,9 @@ def azul():
 	}
 	return cores['azul']
 
+def main():
+	a = input('Digite seu nome: ')
+	print(f'É um prazer te conhecer, {azul()}{a}!')
 
-a = input('Digite seu nome: ')
-print(f'É um prazer te conhecer, {azul()}{a}!')
+
+main()
