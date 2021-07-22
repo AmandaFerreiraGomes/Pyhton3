@@ -9,7 +9,7 @@
 
 -> ex001: fase zero, conceito inicial com a apresentação mais famosa em tela "Olá, Mundo!". Uso da função built-in print(). Faço uso também de mudança de cores dos caracteres.
 
-![ex001](https://user-images.githubusercontent.com/50182271/126656572-ae3a29dc-b56f-4f5d-b3bc-7cbbfc7cbdf7.jpg)
+![ex001](https://user-images.githubusercontent.com/50182271/126657602-71eef496-3efe-4d5b-a198-b6d550346787.jpg)
 
 -> ex002: entrada de dados com uso da função built-in input(), a qual retorna uma cadeia de caracteres por padrão.<br />
 -> ex003: entrada de dados com a função built-in input() com transformação de caractere para inteiro com o uso da função int(), também própria do python 3. Apresento também uma função soma, a qual quando chamada imprime o resultado da soma de dois numeros inteiros. <br />
