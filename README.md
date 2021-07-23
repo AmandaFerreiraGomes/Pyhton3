@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/50182271/126727065-efe69db8-a387-422e-85d2-dc7db21032ff.png)
 
--> ex007:
+-> ex007: no programa principal é solicitada a entrada de dois dados do tipo float: nota1 e nota2. com esses dados, tem-se o cálculo da média, com o uso da função media(nota1, nota2).
 
 ![image](https://user-images.githubusercontent.com/50182271/126727410-9ca4c1c9-d3b6-4bd4-b2f5-66b8854b88c9.png)
 
