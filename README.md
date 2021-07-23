@@ -23,11 +23,11 @@
 
 ![image](https://user-images.githubusercontent.com/50182271/126666036-ca0e6de4-d1cd-4c47-82ad-56ca2e01d009.png)
 
--> ex005: 
+-> ex005: o programa solicita a entrada de um número(n). São exibidos os termos antecessor e sucessor de n.
 
 ![image](https://user-images.githubusercontent.com/50182271/126726605-dae33c19-ac0c-43ad-874d-22f7ddd88356.png)
 
--> ex006: 
+-> ex006:  no programa principal é solicitada a entrada de um número, o qual será convertido para o tipo real(float()). São exibidas três operações, as quais são feitas com o uso desse número: 1: raiz do número; 2: triplo do número; 3: dobro do número. Todas as operações exibem o resultado com precisão de duas casas decimais.
 
 ![image](https://user-images.githubusercontent.com/50182271/126727065-efe69db8-a387-422e-85d2-dc7db21032ff.png)
 
