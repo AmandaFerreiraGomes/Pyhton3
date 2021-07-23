@@ -37,6 +37,7 @@
 
 -> ex008:
 
+![image](https://user-images.githubusercontent.com/50182271/126728422-41440490-5c4c-4f13-a4ba-cfadaff93f96.png)
 
 -> ex009:
 
