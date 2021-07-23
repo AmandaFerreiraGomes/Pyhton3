@@ -25,4 +25,6 @@
 
 -> ex005: 
 
+![image](https://user-images.githubusercontent.com/50182271/126726605-dae33c19-ac0c-43ad-874d-22f7ddd88356.png)
 
+-> ex006: 
