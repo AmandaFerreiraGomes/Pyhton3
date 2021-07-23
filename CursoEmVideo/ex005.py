@@ -12,4 +12,4 @@ if __name__ == '__main__':
     
     print('O antecessor de {} é {} e seu sucessor é {}'.format(n, a, s)) # método 1 de usar o format
     
-    print(f'O antecessor de {n} é {n-1} e seu sucessor é {n + 1}') # método 2 de usar o format. *método de minha preferência, inclusive.
+   # print(f'O antecessor de {n} é {n-1} e seu sucessor é {n + 1}') * método 2 de usar o format. *método de minha preferência, inclusive.
