@@ -1,10 +1,18 @@
 """ Desafio 004: """
 
+
+def linha():
+    print('-'*40)
+
+
 if __name__ == '__main__':
 
-    print('-'*40)
+    linha()
+    # qualquer coisa deverá ser digitada pelo usuário
     n = input('Digite algo: ')
-    print('-'*40)
+    linha()
+    
+    # identificará o que se relaciona a n, como tipo, se é numérico, alfánumérico, se está em caixa alta, se está em caixa baixa, se é um dígito, se possui espaço, se é um título...
     print(f'O tipo primitivo desse valor é {type(n)}')
     print(f'É alfabético e numérico? {n.isalnum()}')
     print(f'É apenas alfabético? {n.isalpha()}')
