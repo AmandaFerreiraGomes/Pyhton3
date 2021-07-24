@@ -47,7 +47,12 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126870929-8535cdcb-e43a-40ba-9c47-1fe953a7b604.png)
 
 
--> ex010:
+-> ex010_conversao_moeda: Conversão de reais para dólares, em que o usuário insere o tanto que deseja converter para dólares além da atual cotação do dólar.
+
+![image](https://user-images.githubusercontent.com/50182271/126871125-58e07206-3a81-48bf-a6f7-e9f8431e3afe.png)
+
+
+-> ex011:
 
 
 
