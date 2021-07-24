@@ -92,4 +92,28 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126875763-7414deb6-ebab-4e86-b752-0aa297bf4487.png)
 
 
--> ex019: 
+-> ex019: importa-se da biblioteca random a função choice, a qual permite a escolha de um número de qualquer sequência que quisermos. Por exemplo L = [1, 2, 3, 4]. sort = choice(L). sort poderá ter qualquer valor inteiro dentro dessa sequência.
+
+![image](https://user-images.githubusercontent.com/50182271/126876017-9cdec327-9e95-4ea4-92a3-626839b99f32.png)
+
+
+-> ex020: utilizando a função shuffle importada da biblioteca random. A função shuffle embaralha a ordem das inserções e retorna None.
+
+![image](https://user-images.githubusercontent.com/50182271/126877695-9207a0ba-443c-425a-9e23-60052ae61d2b.png)
+
+
+-> ex022: programa que solicita ao usuário que digite um nome completo e retorna algumas análises a cerca do nome, além de exibições na tela do nome em caixa alta e em caixa baixa.
+
+![image](https://user-images.githubusercontent.com/50182271/126878001-cb56409c-3e04-43cc-8c0b-6aa9b6e508f1.png)
+
+
+-> ex023: solicita ao usuário que digite um número inteiro entre 0 e 9999 e retorna a divisão desse número em dígitos, em que são identificados os dígitos de unidade, dezena, centena e milhar.
+
+![image](https://user-images.githubusercontent.com/50182271/126878149-a30dd2f1-9d64-496f-b470-c9dc7cc804ea.png)
+
+
+-> ex024: programa que verifica se o nome da cidade digitado pelo usuário começa com 'Santo'.
+
+![image](https://user-images.githubusercontent.com/50182271/126878264-389a38d6-bf1c-4a0c-a6ee-6ff771f6e75e.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126878271-55d44850-3080-4a50-a14b-b26401152166.png)
