@@ -14,8 +14,8 @@ if __name__ == "__main__":
     n1 = int(input('Digite um número: '))
     n2 = int(input('Digite outro: '))
     
-    # chamada da função soma, a qual recebe os parâmetros n1 e n2
-    soma(n1, n2)
+    # chamada da função soma, a qual recebe os parâmetros n1 e n2. A variável s recebe o valor resultante de soma(n1, n2)
+    s = soma(n1, n2)
     
     # exibição do resultado da operação soma
     print(f'A soma entre {n1} e {n2} vale {s}.') # Usando o format de um jeito diferente do .format(...) 
