@@ -20,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/50182271/126665567-734f08af-7c28-4e38-8b8e-70c07e698cc8.png)
 
--> ex004: o programa solicita a entrada de um dado de qualquer tipo e devolve uma espécie de análise sobre o tipo do dado digitado.
+-> ex004: o programa solicita a entrada de um dado de qualquer tipo(letra, número, espaço etc) e devolve uma espécie de análise sobre o tipo do dado digitado.
 
 ![image](https://user-images.githubusercontent.com/50182271/126666036-ca0e6de4-d1cd-4c47-82ad-56ca2e01d009.png)
 
