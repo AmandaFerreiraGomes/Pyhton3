@@ -52,7 +52,8 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126871125-58e07206-3a81-48bf-a6f7-e9f8431e3afe.png)
 
 
--> ex011:
+-> ex011: cálculo da quantidade de tinta necessária para pintar uma área retangular, a qual será calculada a partir dos dados de altura e de largura(base) que seão inseridos pelo usuário.
 
+![image](https://user-images.githubusercontent.com/50182271/126871905-f16933a1-d4b8-42ac-91a7-573e467b0538.png)
 
 
