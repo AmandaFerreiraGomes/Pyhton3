@@ -17,7 +17,7 @@ def adicao(n):
     print(f'{n} + 9  = {n + 9}')
     
    
-def multiplicacaop(n):
+def multiplicacao(n):
     print(f'{n} x 0  = {n*0}')
     print(f'{n} x 1  = {n*1}')
     print(f'{n} x 2  = {n*2}')
