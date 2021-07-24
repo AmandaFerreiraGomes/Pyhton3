@@ -117,3 +117,10 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126878264-389a38d6-bf1c-4a0c-a6ee-6ff771f6e75e.png)
 
 ![image](https://user-images.githubusercontent.com/50182271/126878271-55d44850-3080-4a50-a14b-b26401152166.png)
+
+
+-> ex025: solicita que o usuário digite seu nome completo e faz uma análise, exibindo True para o caso de o usuário ter 'Silva' em seu nome e False para o caso contrário.
+
+![image](https://user-images.githubusercontent.com/50182271/126878429-23f95265-274a-438d-bed6-5a1f06e30147.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126878444-3c78d3ac-1cc9-491d-b35d-6958c8ea57b0.png)
