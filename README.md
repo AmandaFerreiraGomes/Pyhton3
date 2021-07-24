@@ -87,4 +87,9 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126875548-7aa79371-1b73-432b-8024-16aebfaafcd2.png)
 
 
--> ex018; 
+-> ex018: cálculo do seno, do cosseno e da tangente de um determinado ângulo cuja medida deve estar em radianos. Usa-se para tal a biblioteca math e são importadas dela as funções sin, cos e tan.
+
+![image](https://user-images.githubusercontent.com/50182271/126875763-7414deb6-ebab-4e86-b752-0aa297bf4487.png)
+
+
+-> ex019: 
