@@ -4,7 +4,8 @@
 
 # 1. Apresentação:
 
-  Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo. Deste modo, por intermédio da apresentação dos projetos ficam evidenciadas as skills obtidas nesse treinamento.
+  Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo. Deste modo, por intermédio da apresentação dos projetos ficam evidenciadas as skills obtidas nesse treinamento, seguindo de um nível mais baixo para um nível mais alto de abordagens.
+
 # 2. Descrição dos projetos:
 
 -> ex001: fase zero, conceito inicial com a apresentação mais famosa em tela "Olá, Mundo!". Uso da função built-in print(). Faço uso também de mudança de cores dos caracteres.
