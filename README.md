@@ -57,3 +57,9 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126871905-f16933a1-d4b8-42ac-91a7-573e467b0538.png)
 
 
+-> ex012: cálculo de desconto de 5% sobre o preço de determinado produto, o preço do produto será inserido pelo usuário e o resultado do desconto será exibido em tela.
+
+![image](https://user-images.githubusercontent.com/50182271/126872083-9d8b621a-671f-4866-9c7f-0a12f335efc5.png)
+
+
+-> ex013: 
