@@ -82,4 +82,9 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126873022-aadb06db-2589-432d-ae81-b423b08a2d42.png)
 
 
--> ex017: 
+-> ex017: cálculo do valor da hipotenusa(h^2 = ca^2 + co^2 => h = (ca^2 + co^2)^1/2). Deste modo, o programa solicita que o usuário digite os valores dos catetos e retorna o valor da hipotenusa do referido triângulo retângulo.
+
+![image](https://user-images.githubusercontent.com/50182271/126875548-7aa79371-1b73-432b-8024-16aebfaafcd2.png)
+
+
+-> ex018; 
