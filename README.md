@@ -137,6 +137,6 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126879500-8675e5e3-7fb0-4446-882e-9c70f6de51b8.png)
 
 
--> ex028: o usuário tenta adivinhar o valor aleatório entre [0 e 4]resultante da aplicação da função randint. É exibido na tela se o usuário acertou ou perdeu e também é exibido o valor aleatório.
+-> ex028: o usuário tenta adivinhar o valor aleatório entre [0 e 4] resultante da aplicação da função randint. É exibido na tela se o usuário acertou ou perdeu e também é exibido o valor aleatório.
 
 ![image](https://user-images.githubusercontent.com/50182271/126880109-114c2087-8659-4ef1-9025-2021476b751f.png)
