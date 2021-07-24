@@ -77,4 +77,9 @@ Como ambos têm a mesma saída, segue-se que:
 
 ![image](https://user-images.githubusercontent.com/50182271/126872669-c0a201c1-fc0c-4782-9156-f6161c5cdd76.png)
 
--> ex016:
+-> ex016: uso da função trunc pertencente à biblioteca math. resulta na obtenção da parte inteira de um número real, a qual é exibida.
+
+![image](https://user-images.githubusercontent.com/50182271/126873022-aadb06db-2589-432d-ae81-b423b08a2d42.png)
+
+
+-> ex017: 
