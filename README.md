@@ -73,4 +73,8 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126872381-fddb2241-56a4-4552-a8e7-f16f25e889e2.png)
 
 
--> ex015: 
+-> ex015: programa que calcula os custos referentes ao aluguel de um veículo durante período de dias e quilômetros rodados. Cada dia custa R$ 60,00 e cada km rodado custa R$ 0,15.
+
+![image](https://user-images.githubusercontent.com/50182271/126872669-c0a201c1-fc0c-4782-9156-f6161c5cdd76.png)
+
+-> ex016:
