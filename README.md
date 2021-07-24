@@ -62,4 +62,14 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126872083-9d8b621a-671f-4866-9c7f-0a12f335efc5.png)
 
 
--> ex013: 
+-> ex013: cálculo de acréscimo de 15% a determinado salário, o qual será inserido pelo usuário. 
+
+![image](https://user-images.githubusercontent.com/50182271/126872244-e2759356-5d2b-4831-8b40-58ef5d75a9bf.png)
+
+
+-> ex014: programa de conversão de medida de temperatura de graus celsius para graus fahrenheit, no qual o usuário insere a temperatura em graus celsius e recebe como resultado a temperatura em graus fahrenheit.
+
+![image](https://user-images.githubusercontent.com/50182271/126872381-fddb2241-56a4-4552-a8e7-f16f25e889e2.png)
+
+
+-> ex015: 
