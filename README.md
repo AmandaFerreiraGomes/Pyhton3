@@ -5,6 +5,7 @@
 # 1. Apresentação:
 
   Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo. Deste modo, por intermédio da apresentação dos projetos ficam evidenciadas as skills obtidas nesse treinamento, seguindo de um nível mais baixo para um nível mais alto de abordagens.
+  Faço uso do PyCharm para fazer as capturas de execução dos códigos aqui listados.
 
 # 2. Descrição dos projetos:
 
@@ -136,6 +137,6 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126879500-8675e5e3-7fb0-4446-882e-9c70f6de51b8.png)
 
 
--> ex028: 
+-> ex028: o usuário tenta adivinhar o valor aleatório entre [0 e 4]resultante da aplicação da função randint. É exibido na tela se o usuário acertou ou perdeu e também é exibido o valor aleatório.
 
-
+![image](https://user-images.githubusercontent.com/50182271/126880109-114c2087-8659-4ef1-9025-2021476b751f.png)
