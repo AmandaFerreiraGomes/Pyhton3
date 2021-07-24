@@ -35,11 +35,16 @@
 
 ![image](https://user-images.githubusercontent.com/50182271/126727410-9ca4c1c9-d3b6-4bd4-b2f5-66b8854b88c9.png)
 
--> ex008:
+-> ex008: o usuário insere um valor em metros, o qual será convertido para milímetros, centímetros, decímetros, decâmetros, hectômetros e quilômetros. Os valores são exibidos na tela. 
 
 ![image](https://user-images.githubusercontent.com/50182271/126728422-41440490-5c4c-4f13-a4ba-cfadaff93f96.png)
 
--> ex009:
+
+-> ex009_tabelas_adicao_multiplicacao: apresenta as tabelas de adição e de multiplicação para um dado número inserido pelo usuário durante a execução do programa.
+-> ex009_com_for: apresenta as tabelas de adição e de multiplicação para um dado número inserido pelo usuário durante a execução do programa (utilizando o for...).
+Como ambos têm a mesma saída, segue-se que:
+
+![image](https://user-images.githubusercontent.com/50182271/126870929-8535cdcb-e43a-40ba-9c47-1fe953a7b604.png)
 
 
 -> ex010:
