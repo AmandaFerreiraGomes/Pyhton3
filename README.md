@@ -124,3 +124,18 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126878429-23f95265-274a-438d-bed6-5a1f06e30147.png)
 
 ![image](https://user-images.githubusercontent.com/50182271/126878444-3c78d3ac-1cc9-491d-b35d-6958c8ea57b0.png)
+
+
+-> ex026: analisa quantas letras a minúsculas tem na frase digitada pelo usuário, além de exibir também a posição da primeira letra a minúscula e a última posição da mesma. exibe também o tamanho da frase contando, inclusive, com os caracteres em branco digitados. 
+
+![image](https://user-images.githubusercontent.com/50182271/126879386-821a0c4d-2dc4-490c-8050-f2d34cbe746c.png)
+
+
+-> ex027: exibe o primeiro e o último nomes que foram inseridos pelo usuário.
+
+![image](https://user-images.githubusercontent.com/50182271/126879500-8675e5e3-7fb0-4446-882e-9c70f6de51b8.png)
+
+
+-> ex028: 
+
+
