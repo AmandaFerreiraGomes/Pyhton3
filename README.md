@@ -216,3 +216,15 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126909033-fea6b811-066f-41d7-bec1-f2476c08a861.png)
 
 ![image](https://user-images.githubusercontent.com/50182271/126909042-b961224f-aaab-4246-a4ea-98ead569f150.png)
+
+
+-> ex039: programa que verifica a situação do alistamento militar do usuário de acordo com os dados inseridos pelo mesmo. O programa não considera meses ou dias, apenas considera os anos.
+
+![image](https://user-images.githubusercontent.com/50182271/126911929-bf06560c-ae18-4402-b704-998c64eb15a6.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126911993-4fd6b4e4-920f-453a-8e47-b7fd12420c6e.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126912065-7616391f-abc6-4a81-8dfc-d5fdd8a79475.png)
+
+
+-> ex040:
