@@ -147,3 +147,15 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126880482-194af786-702a-4193-b71b-a807071feb60.png)
 
 ![image](https://user-images.githubusercontent.com/50182271/126883931-3a05d077-efe3-435f-b7ae-c6184ff1320b.png)
+
+
+-> ex030: o usuário insere um número e o programa verifica se o número digitado é par ou ímpar.
+
+![image](https://user-images.githubusercontent.com/50182271/126884033-ffa8d8dc-1f36-46c2-a206-da4ec61d7f29.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126884063-f210d7b4-9953-47c5-ba62-784341954dcb.png)
+
+
+-> ex031: solicita que o usuário digite a quantidade de quiômetros percorridos na viagem e calcula com base neles o valor da passagem. Caso km <=(menor ou igual) a 200, o km da passagem custará R$ 0,50. Caso contrário, o km da passagem custará R$ 0,45. 
+
+![image](https://user-images.githubusercontent.com/50182271/126884209-872aadc7-65e8-4c8c-91b7-be1f68830838.png)
