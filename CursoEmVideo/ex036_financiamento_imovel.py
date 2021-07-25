@@ -34,3 +34,5 @@ if __name__ == "__main__":
 			f'\033[36mValor do Imóvel: R$ {valor:.2f}\nQuantidade de Meses: {p}\nPrestação Mensal: R$ {prestacao:.2f}.')
 	
 	linha()
+
+	
