@@ -188,5 +188,8 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126898435-c5822e74-3e1c-474d-bb69-703458329a59.png)
 
 
--> ex035: 
+-> ex035: verifica se dados três segmentos de reta, os quais são inseridos pelo usuário, podem formar um triângulo.
 
+![image](https://user-images.githubusercontent.com/50182271/126898804-575b10d7-35f4-4504-85be-ce6c186eb4a4.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126898826-f311aabc-cf34-41f0-aec7-3f129f5d5cff.png)
