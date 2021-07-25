@@ -142,6 +142,8 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126880109-114c2087-8659-4ef1-9025-2021476b751f.png)
 
 
--> ex029: 
+-> ex029: Programa que, de acordo com a velocidade inserida pelo usuário, verifica se o motorista foi ou não multado. Caso o motorista tenha sido multado, isto significa que ele trafegava a uma velocidade maior que 80 km/h. Deste modo, o cálculo do valor da multa é feito tomando por base a velocidade em excesso. A cada km/h em excesso, o motorista é multado em 7 reais. Logo, a multa é calculada: multa = (v - 80) * 7. Se o motorista não trafegou com velocidade acima de 80 km/h, então ele não é multado e recebe um elogio.
 
 ![image](https://user-images.githubusercontent.com/50182271/126880482-194af786-702a-4193-b71b-a807071feb60.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126883931-3a05d077-efe3-435f-b7ae-c6184ff1320b.png)
