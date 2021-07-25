@@ -158,4 +158,8 @@ Como ambos têm a mesma saída, segue-se que:
 
 -> ex031: solicita que o usuário digite a quantidade de quiômetros percorridos na viagem e calcula com base neles o valor da passagem. Caso km <=(menor ou igual) a 200, o km da passagem custará R$ 0,50. Caso contrário, o km da passagem custará R$ 0,45. 
 
+*Para distância menor/igual a 200:
 ![image](https://user-images.githubusercontent.com/50182271/126884209-872aadc7-65e8-4c8c-91b7-be1f68830838.png)
+
+*Para distância maior que 200:
+![image](https://user-images.githubusercontent.com/50182271/126884322-3583cfde-15c9-4137-9253-96c034992c41.png)
