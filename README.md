@@ -165,3 +165,28 @@ Como ambos têm a mesma saída, segue-se que:
 *Para distância maior que 200:
 
 ![image](https://user-images.githubusercontent.com/50182271/126884322-3583cfde-15c9-4137-9253-96c034992c41.png)
+
+
+-> ex032: programa que verifica se determinado ano inserido pelo usuário é ou não bissexto. 
+
+![image](https://user-images.githubusercontent.com/50182271/126897862-37547bfe-286d-4f6c-9d11-d9e692daf3c8.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126897929-f2e540d7-0708-4647-a330-0a03af0416e8.png)
+
+
+-> ex033: programa que solicita ao usuário que digite três números. Com base nos números digitados ele verifica qual é o maior e qual é o menor e exibe na tela. Há o recurso de a fonte ser azul.
+
+![image](https://user-images.githubusercontent.com/50182271/126897993-d8262783-ee80-467d-abab-2d1824ff60ce.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126898275-6bf3925c-893a-4c20-b449-139e180983ed.png)
+
+
+-> ex034: programa que calcula o valor do aumento do salário do usuário. Caso o atual salário seja maior que R$ 1250,00, então o aumento será de 10%. Caso o atual salário seja menor que R$ 1250,00, então o aumento será de 15%.
+
+![image](https://user-images.githubusercontent.com/50182271/126898395-7be77603-78cb-4348-97fc-063fcc0f783b.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126898435-c5822e74-3e1c-474d-bb69-703458329a59.png)
+
+
+-> ex035: 
+
