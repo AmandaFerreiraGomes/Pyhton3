@@ -25,7 +25,7 @@ if __name__ == "__main__":
 	if med < 5.0:
 		print(f'\033[30:44mMédia: {med}. REPROVADO!\033[m')
 	# caso a média esteja entre 5 e 6.9, o aluno ficará de recuperação
-	elif 5.0 < med < 6.9:
+	elif 5.0 < med < 7.0:
 		print(f'\033[30:44mMédia: {med}. RECUPERAÇÃO!\033[m')
 	# por fim, a última situação é a de aprovado, em que o aluno possui média maior ou igual a 7.0
 	else:
