@@ -227,4 +227,11 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126912065-7616391f-abc6-4a81-8dfc-d5fdd8a79475.png)
 
 
--> ex040:
+-> ex040: programa em que dadas as notas do usuário, obtém-se a média. De acordo com a média obtida será mostrada a situação do aluno: APROVADO(nota >= 7.0), REPROVADO(nota < 5.0) ou RECUPERAÇÃO(5.0 < nota < 7.0).
+
+![image](https://user-images.githubusercontent.com/50182271/126912998-5ab6d5f5-e1ff-4119-8b26-c57d4437db00.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126913028-ae438519-7beb-4d13-84c1-c96d210a91c9.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126913043-9b2e7d81-dc9e-4fc8-a43f-cb4ac60763a1.png)
+
