@@ -200,3 +200,19 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126899882-f6a981f3-8a0e-4880-96bd-5bbc0d75f1ed.png)
 
 
+-> ex037: programa de conversão de bases numéricas. O usuário digita um número que está na base decimal e escolhe para qual base deseja convertê-lo: binária, octal ou hexadecimal. Será exibido o resultado da conversão.
+
+![image](https://user-images.githubusercontent.com/50182271/126901806-6020a33c-11a1-4809-9846-b90fc2d1c397.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126901841-ae06f241-58ef-4beb-b203-06e3b7d16862.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126901866-f54efd1a-df0a-4355-b45a-ba54a3a9e05c.png)
+
+
+-> ex038: o usuário deve inserir dois valores. Será feita a análise de qual dos dois é o maior. Se forem iguais será exibida a mensagem de que são iguais.
+
+![image](https://user-images.githubusercontent.com/50182271/126909023-203e2745-019a-438e-8915-137395db29ec.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126909033-fea6b811-066f-41d7-bec1-f2476c08a861.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126909042-b961224f-aaab-4246-a4ea-98ead569f150.png)
