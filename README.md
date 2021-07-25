@@ -237,14 +237,23 @@ Como ambos têm a mesma saída, segue-se que:
 
 
 -> ex041: o programa determina a categoria em que o usuário se encaixa em um concurso, de acordo com a idade do mesmo. 
+1:
 
 ![image](https://user-images.githubusercontent.com/50182271/126913406-738fb3ff-169a-4494-8300-7d0c3a925158.png)
 
+2:
+
 ![image](https://user-images.githubusercontent.com/50182271/126913414-e8f175aa-e650-4e48-9a21-0805cdd8a826.png)
+
+3:
 
 ![image](https://user-images.githubusercontent.com/50182271/126913426-4f9d71f3-4fa3-4595-a95f-e1176ead220c.png)
 
+4:
+
 ![image](https://user-images.githubusercontent.com/50182271/126913445-03610b30-af75-45c6-81f8-5a2f20974c79.png)
+
+5:
 
 ![image](https://user-images.githubusercontent.com/50182271/126913459-6ef63a9a-3f0b-424b-90ac-b34aeae1c864.png)
 
