@@ -269,3 +269,24 @@ Como ambos têm a mesma saída, segue-se que:
 
 
 -> ex043:
+
+1:
+
+![image](https://user-images.githubusercontent.com/50182271/126918751-01e69702-228a-4ec3-889e-71beb308d3f1.png)
+
+2:
+
+![image](https://user-images.githubusercontent.com/50182271/126918797-b078d674-22df-4978-b66c-c7f26607f947.png)
+
+3:
+
+![image](https://user-images.githubusercontent.com/50182271/126918819-9d4abd41-ff42-44e3-8651-6083fbcb56cb.png)
+
+4:
+
+![image](https://user-images.githubusercontent.com/50182271/126918839-04e7209d-c17d-4c1d-a4e3-5b0e574a7e2e.png)
+
+5:
+
+![image](https://user-images.githubusercontent.com/50182271/126918859-1d3ef93d-9f77-4f72-a99c-a1923d64fd28.png)
+
