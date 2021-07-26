@@ -268,7 +268,7 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126918281-4424f059-24a0-4777-bc9d-91f0bb33caa5.png)
 
 
--> ex043:
+-> ex043: programa que de acordo com os dados inseridos pelo usuário retorna o status do peso do usuário: Abaixo do Peso, Peso Ideal, Sobrepeso, Obesidade, Obesidade Mórbida.
 
 1:
 
@@ -290,3 +290,5 @@ Como ambos têm a mesma saída, segue-se que:
 
 ![image](https://user-images.githubusercontent.com/50182271/126918859-1d3ef93d-9f77-4f72-a99c-a1923d64fd28.png)
 
+
+-> ex044:
