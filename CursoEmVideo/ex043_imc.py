@@ -42,4 +42,4 @@ if __name__ == "__main__":
 	
 	# exibe-se o resultado
 	print(f'IMC: {imc:.2f}\n{a}')
-	
+	linha()
