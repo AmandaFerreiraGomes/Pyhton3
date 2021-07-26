@@ -259,8 +259,13 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126913459-6ef63a9a-3f0b-424b-90ac-b34aeae1c864.png)
 
 
--> ex042: prgrama que verifica se três segmentos de reta podem formar um triângulo. Se puderem formar o triângulo, o programa verifica de qual tipo o triângulo é: Equilátero, Escaleno, Isóceles.
+-> ex042: programa que verifica se três segmentos de reta podem formar um triângulo. Se puderem formar o triângulo, o programa verifica de qual tipo o triângulo é: Equilátero, Escaleno, Isóceles.
 
-![image](https://user-images.githubusercontent.com/50182271/126918112-c0a811c6-e69d-494e-854a-dff970a44e3d.png)
+![image](https://user-images.githubusercontent.com/50182271/126918251-c96fa845-20f9-40ab-a70b-1ec1708a5798.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126918263-a33962b4-6451-4474-a80a-297f1c88f463.png)
+
+![image](https://user-images.githubusercontent.com/50182271/126918281-4424f059-24a0-4777-bc9d-91f0bb33caa5.png)
 
 
+-> ex043:
