@@ -4,8 +4,10 @@
 
 # 1. Apresentação:
 
-  Meu portifólio dos arquivos .py dos exercícios propostos no curso de Python 3 do canal CursoEmVídeo realizado no ano de 2020 entre os meses de junho e julho. Já havia trabalhado com Python 3 na disciplina de Técnicas de Programação na faculdade no primeiro semestre do ano de 2019, porém é sempre relevante buscar novas abordagens de um mesmo conteúdo. Deste modo, por intermédio da apresentação dos projetos ficam evidenciadas as skills obtidas nesse treinamento, seguindo de um nível mais baixo para um nível mais alto de abordagens.
-  Faço uso do PyCharm para capturaras  de execução dos códigos aqui listados.
+    Python é uma linguagem de programação de alto nível, ou seja, tem uma sintaxe mais próxima da comunicação humana. Portanto, sendo de mais fácil entendimento para os humanos. Para que a máquina consiga interpretar/compreender essa sintaxe de Python, necessita-se de um interpretador, já que Python é, também, uma linguagem interpretada. Mas o que significa dizer que Python é uma linguagem interpretada? Isso quer dizer que o script em Python vai ser lido e executado "linha por linha", sem a necessidade de criação de um executável, como ocorre na linguagem C,  por exemplo, que é compilada. 
+    Os projetos abordados neste repositório são de nível iniciante, aborda-se em um primeiro momento, no Mundo 1, o tratamento de dados, os condicionais if... else e, como bônus, o uso de cores. No Mundo 2, aborda-se os condicionais if ... elif e repetições(for e while). No Mundo 3, tem-se a abordagem de estruturas de dados em Python(tuplas, dicionários, listas). Abordam-se também modularização, tratamento de erros e funções em Python.
+    Os projetos exercícios propostos foram elaborados no PyCharm, do qual foram capturadas as telas de execução e as mesmas estão inseridas neste arquivo, de acordo com a ordem do exercício proposto nos cursos.
+  
 
 # 2. Descrição dos projetos:
 
