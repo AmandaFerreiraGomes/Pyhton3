@@ -1,8 +1,4 @@
-""" Desafio 044: """
-
-
 def menu():
-	
 	print("""\t\tCondição de Pagamento:
 	
 1 - À VISTA(DINHEIRO OU CHEQUE).
@@ -13,12 +9,13 @@ def menu():
 
 
 def linha():
-	
 	print('-'*36)
 
+
 def condicao():
-	
-	cond = int(input('Opção: '.upper()))
+	print('\033[36m', end='')
+	cond = int(input('-> Opção: '.upper()))
+	print('\033[m', end='')
 	return cond
 
 
@@ -60,29 +57,30 @@ def pagamento(cond, preco):
 	else:
 		print('Opção Inválida!')
 		
-	print(f'Preço: {vez} x de R$ {pag:.2f}.\nCom desconto de {desconto}%\nCom acréscimo de {acrescimo}%'.upper())
-
+	print(f'Preço: {vez} x de R$ {pag:.2f}.\nCom desconto de {desconto}%.\nCom acréscimo de {acrescimo}%.'.upper())
 
 # Programa Principal:
 if __name__ == "__main__":
 	
 	try:
 		linha()
-		print(' BEM-VINDO AO SISTEMA PAGAMENTO V2.0 ')
+		print(' BEM-VINDO AO SISTEMA PAGAMENTO V2.0!') # cabecalho
 		linha()
 		
-		preco = float(input('-> Digite o preço do produto: R$ '.upper()))
+		print('\033[36m', end='') # imprime a solicitacao abaixo na cor verde, finaliza a string sem espaco e sem new line
+		preco = float(input('-> Digite o preço do produto: R$ \033[m'.upper()))
+		print('\033[m', end='') # remove a cor verde da continuacao do programa
 		linha()
 		
-		menu()
+		menu() # menu de opcoes, as quais o usuario podera escolher
 		linha()
 		
-		cond = condicao()
+		cond = condicao() # a variavel cond recebe o retorno da funcao condicao, na qual o usuario insere a opcao desejada de acordo com o que esta escrito no menu
 		linha()
 		
-		pagamento(cond, preco)
+		pagamento(cond, preco) # funcao que recebe dois parametros, os quais serao a base para o calculo da forma de pagamento do cliente, dos descontos e dos acrescimos sobre o preco do produto.
 		linha()
 	
 	except (KeyboardInterrupt, KeyError, ValueError):
 		print("\033[31mERRO NA EXECUÇÃO DO PROGRAMA!")
-	
+
