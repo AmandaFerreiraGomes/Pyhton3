@@ -315,3 +315,5 @@ Como ambos têm a mesma saída, segue-se que:
 
 ex046: mostra a contagem regressiva para a virada do ano(últimos 10 segundos). Além disso, imprime 4 emojis de fogos de artifício na tela.
 
+
+![image](https://user-images.githubusercontent.com/50182271/127781920-0f443c15-2ab0-47db-be9a-03ad321f81c3.png)
