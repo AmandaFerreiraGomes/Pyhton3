@@ -1,8 +1,15 @@
 """ Desafio 045: """
+
+
+# importa-se a biblioteca random
 import random
+
+
+def linha():
+	print()
+
+
 # Programa Principal:
-
-
 def main():
 	nome = str(input('Digite seu nome: '))
 	L = ['Pedra', 'Papel', 'Tesoura']
