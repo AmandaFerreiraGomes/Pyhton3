@@ -298,16 +298,17 @@ Como ambos têm a mesma saída, segue-se que:
 
 1:
 
-![image](https://user-images.githubusercontent.com/50182271/127773565-fb521b69-3e56-402f-82bb-c519560ea18d.png)
+![image](https://user-images.githubusercontent.com/50182271/127773831-809298c5-7dfa-4b9f-b367-858b09c9ab0d.png)
 
 2:
 
-![image](https://user-images.githubusercontent.com/50182271/127773551-119df515-1ece-4c00-a7d3-643ec2210174.png)
+![image](https://user-images.githubusercontent.com/50182271/127773812-16d9baee-4e02-429b-9624-23832ff3a2e8.png)
 
 3:
 
-![image](https://user-images.githubusercontent.com/50182271/127773593-de61d691-ff73-4c6c-bc80-a09009a01e71.png)
+![image](https://user-images.githubusercontent.com/50182271/127773800-54f50513-20e5-41a9-8cfe-7b595dc7d7d8.png)
 
 4:
 
-![image](https://user-images.githubusercontent.com/50182271/127773619-6a8ac6a5-4c40-473e-bd3e-429661062683.png)
+![image](https://user-images.githubusercontent.com/50182271/127773777-209360d1-fa7c-424e-ac34-26b4db9379fe.png)
+
