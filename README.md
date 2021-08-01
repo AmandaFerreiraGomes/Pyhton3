@@ -294,4 +294,20 @@ Como ambos têm a mesma saída, segue-se que:
 ![image](https://user-images.githubusercontent.com/50182271/126918859-1d3ef93d-9f77-4f72-a99c-a1923d64fd28.png)
 
 
--> ex044:
+-> ex044: sistema de cálculo de forma de pagamento de acordo com a opção escolhida pelo cliente podem haver acréscimos(caso o pagamento seja parcelado em mais de duas vezes) ou descontos(caso o pagamento seja à vista).
+
+1:
+
+![image](https://user-images.githubusercontent.com/50182271/127773565-fb521b69-3e56-402f-82bb-c519560ea18d.png)
+
+2:
+
+![image](https://user-images.githubusercontent.com/50182271/127773551-119df515-1ece-4c00-a7d3-643ec2210174.png)
+
+3:
+
+![image](https://user-images.githubusercontent.com/50182271/127773593-de61d691-ff73-4c6c-bc80-a09009a01e71.png)
+
+4:
+
+![image](https://user-images.githubusercontent.com/50182271/127773619-6a8ac6a5-4c40-473e-bd3e-429661062683.png)
