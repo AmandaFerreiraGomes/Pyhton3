@@ -317,3 +317,8 @@ ex046: mostra a contagem regressiva para a virada do ano(últimos 10 segundos). 
 
 
 ![image](https://user-images.githubusercontent.com/50182271/127781920-0f443c15-2ab0-47db-be9a-03ad321f81c3.png)
+
+
+ex047: programa que exibe todos os números pares no intervalo [1, 50).
+
+![image](https://user-images.githubusercontent.com/50182271/127784239-3ed47082-2dd8-4a82-9c20-c523757e6f0e.png)
