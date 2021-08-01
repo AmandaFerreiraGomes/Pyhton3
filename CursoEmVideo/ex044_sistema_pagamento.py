@@ -68,7 +68,7 @@ if __name__ == "__main__":
 	
 	try:
 		linha()
-		print(' BEM-VINDO AO SISTEMA DESCONTO V2.0 ')
+		print(' BEM-VINDO AO SISTEMA PAGAMENTO V2.0 ')
 		linha()
 		
 		preco = float(input('-> Digite o preço do produto: R$ '.upper()))
