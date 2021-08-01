@@ -312,3 +312,6 @@ Como ambos têm a mesma saída, segue-se que:
 
 ![image](https://user-images.githubusercontent.com/50182271/127773777-209360d1-fa7c-424e-ac34-26b4db9379fe.png)
 
+
+ex046: mostra a contagem regressiva para a virada do ano(últimos 10 segundos). Além disso, imprime 4 emojis de fogos de artifício na tela.
+
