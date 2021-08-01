@@ -43,11 +43,14 @@ def pagamento(cond, preco):
 		
 	elif condicao == 4:
 		
-		vezes = int(input('Quantidade de Parcelas: '.upper()))
+		print ('\033[36m', end='')
+		vezes = int(input('-> Quantidade de Parcelas: '.upper()))
+		print('\033[m', end='')
+		linha()
 		
 		if vezes > 2:
 			acrescimo = 20
-			paga = ((preco + (preco * (acrescimo/100))) / vezes)
+			pag = ((preco + (preco * (acrescimo/100))) / vezes)
 			vez = vezes
 		
 		
@@ -57,7 +60,7 @@ def pagamento(cond, preco):
 	else:
 		print('Opção Inválida!')
 		
-	print(f'Preço: {vez} x de R$ {pag:.2f}.\nCom desconto de {desconto}%.\nCom acréscimo de {acrescimo}%.'.upper())
+	print(f'PAGAMENTO: {vez} x de R$ {pag:.2f}.\nCom desconto de {desconto}%.\nCom acréscimo de {acrescimo}%.'.upper())
 
 # Programa Principal:
 if __name__ == "__main__":
