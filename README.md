@@ -327,3 +327,14 @@ ex047: programa que exibe todos os números pares no intervalo [1, 50).
 ex048: exibe todos os números ímpares que estão no intervalo [1,500], os quais são múltiplos de três. Exibe, também, a soma de todos os valores que respeitam a condição proposta e um emoji de óculos de sol no final.
 
 ![image](https://user-images.githubusercontent.com/50182271/128617454-e3ff1ec1-3dea-4dec-8639-b5bf9f19bffb.png)
+
+
+ex049: exibe a tabuada de soma do número n, que é solicitado e inserido pelo usuário.
+
+![image](https://user-images.githubusercontent.com/50182271/128617588-a6693b08-60b8-4c39-b8b8-0a779c90e8d6.png)
+
+
+ex050: solicita ao usuário que digite seis valores, um de cada vez. Os valores inseridos passam por uma verificação, os que são pares são somados e os ímpares são ignorados. Ao final, exibe-se o total da soma. 
+
+![image](https://user-images.githubusercontent.com/50182271/128617658-8f72371f-5363-419b-aafa-1d9c68e2b52f.png)
+
