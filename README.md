@@ -322,3 +322,8 @@ ex046: mostra a contagem regressiva para a virada do ano(últimos 10 segundos). 
 ex047: programa que exibe todos os números pares no intervalo [1, 50).
 
 ![image](https://user-images.githubusercontent.com/50182271/127784239-3ed47082-2dd8-4a82-9c20-c523757e6f0e.png)
+
+
+ex048: exibe todos os números ímpares que estão no intervalo [1,500], os quais são múltiplos de três. Exibe, também, a soma de todos os valores que respeitam a condição proposta e um emoji de óculos de sol no final.
+
+![image](https://user-images.githubusercontent.com/50182271/128617454-e3ff1ec1-3dea-4dec-8639-b5bf9f19bffb.png)
