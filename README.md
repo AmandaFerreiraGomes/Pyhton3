@@ -338,3 +338,12 @@ ex050: solicita ao usuário que digite seis valores, um de cada vez. Os valores 
 
 ![image](https://user-images.githubusercontent.com/50182271/128617658-8f72371f-5363-419b-aafa-1d9c68e2b52f.png)
 
+
+ex051: exibem-se os dez primeiros termos da p.a., cujas variáveis 'primeiro termo'(a1) e 'razão'(r) são inseridas pelo usuário.
+
+![image](https://user-images.githubusercontent.com/50182271/128644998-b99cdf0b-e22d-4859-94f2-410f454c8b87.png)
+
+
+ex052: verifica quais valores que estão no intervalo [1, 99] são primos. Exibe uma mensagem para caso sejam ou não.
+
+![image](https://user-images.githubusercontent.com/50182271/128645580-72447fd1-dfea-4803-a281-deac9d43ce7f.png)
