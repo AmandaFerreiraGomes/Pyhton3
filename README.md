@@ -347,3 +347,12 @@ ex051: exibem-se os dez primeiros termos da p.a., cujas variáveis 'primeiro ter
 ex052: verifica quais valores que estão no intervalo [1, 99] são primos. Exibe uma mensagem para caso sejam ou não.
 
 ![image](https://user-images.githubusercontent.com/50182271/128645580-72447fd1-dfea-4803-a281-deac9d43ce7f.png)
+
+
+ex053: programa que solicita ao usuário que digite uma frase. A partir da frase digitada, faz-se todo um tratamento para indicar se a frase digitada é um palíndromo, ou seja, se a escrita da direita para a esquerda é a mesma escrita da esquerda para a direita.
+
+![image](https://user-images.githubusercontent.com/50182271/128646304-aa6878eb-4074-445e-bebd-6d1500faf734.png)
+
+![image](https://user-images.githubusercontent.com/50182271/128646317-62bda12e-39ba-4f9f-8aae-485985d4eb4d.png)
+
+
