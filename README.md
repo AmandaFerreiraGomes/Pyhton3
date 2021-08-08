@@ -356,3 +356,7 @@ ex053: programa que solicita ao usuário que digite uma frase. A partir da frase
 ![image](https://user-images.githubusercontent.com/50182271/128646317-62bda12e-39ba-4f9f-8aae-485985d4eb4d.png)
 
 
+ex054: o programa faz uma pesquisa de faixa etária. Seleciona os que têm idade igual ou superior a 21 anos e os que têm idade inferior a 21 anos.
+
+![image](https://user-images.githubusercontent.com/50182271/128646966-4767f0c9-ee44-4aa2-86e1-6123e3e813cc.png)
+
