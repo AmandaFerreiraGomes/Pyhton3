@@ -376,3 +376,5 @@ ex057: solicita que o usuário digite o sexo. Enquanto o sexo for diferente de M
 ![image](https://user-images.githubusercontent.com/50182271/128652098-90b79f1e-9942-4dc3-9ff3-641b3ba9141e.png)
 
 ![image](https://user-images.githubusercontent.com/50182271/128652116-b085a04e-1dac-4333-93cb-f59d6fced8e2.png)
+
+ex058: jogo de adivinhação, em que o usuário tem infinitas tentativas para acertar o número selecionado, que fica entre 0 e 10.
