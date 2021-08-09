@@ -360,3 +360,10 @@ ex054: o programa faz uma pesquisa de faixa etária. Seleciona os que têm idade
 
 ![image](https://user-images.githubusercontent.com/50182271/128646966-4767f0c9-ee44-4aa2-86e1-6123e3e813cc.png)
 
+
+ex055: o usuário insere 5 pesos, dos quais serão selecionados dois, o maior e o menor, para serem exibidos na pesquisa.
+
+![image](https://user-images.githubusercontent.com/50182271/128650697-4bec606a-7014-46fd-bdf3-d7d606c6b101.png)
+
+
+ex056: 
