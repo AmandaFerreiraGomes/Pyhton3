@@ -370,3 +370,9 @@ ex056: o programa interage com o usuário solicitando nome, idade e sexo. A part
 
 ![image](https://user-images.githubusercontent.com/50182271/128651746-d4b137a6-0369-421b-997e-0de01299568c.png)
 
+
+ex057: solicita que o usuário digite o sexo. Enquanto o sexo for diferente de M ou F o programa continuará a solicitar que o usuário digite corretamente. Ao ser M ou F, vai ser exibido Sexo: Masculino para M e Sexo: Feminino para F.
+
+![image](https://user-images.githubusercontent.com/50182271/128652098-90b79f1e-9942-4dc3-9ff3-641b3ba9141e.png)
+
+![image](https://user-images.githubusercontent.com/50182271/128652116-b085a04e-1dac-4333-93cb-f59d6fced8e2.png)
