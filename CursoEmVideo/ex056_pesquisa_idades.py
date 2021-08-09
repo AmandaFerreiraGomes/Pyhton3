@@ -53,7 +53,8 @@ def main():
 	med = (s/2)
 	
 	linha()
-	
+	print('RESULTADO'.center(55))
+	linha()
 	# exibe-se o resultado da média das idades das pessoas que fazem parte do grupo.
 	print(f'1. Média de Idade do Grupo: {med}.')
 	
