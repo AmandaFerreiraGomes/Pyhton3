@@ -366,4 +366,7 @@ ex055: o usuário insere 5 pesos, dos quais serão selecionados dois, o maior e 
 ![image](https://user-images.githubusercontent.com/50182271/128650697-4bec606a-7014-46fd-bdf3-d7d606c6b101.png)
 
 
-ex056: 
+ex056: o programa interage com o usuário solicitando nome, idade e sexo. A partir dos dados colhidos, faz-se a análise e como resultado da pesquisa são mostrados a média de idade do grupo, o homem mais velho e a quantidade de mulheres que possui idade superior a 20 anos.
+
+![image](https://user-images.githubusercontent.com/50182271/128651746-d4b137a6-0369-421b-997e-0de01299568c.png)
+
