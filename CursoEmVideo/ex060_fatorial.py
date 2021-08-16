@@ -1,7 +1,7 @@
 """ Desafio 060: """
 
 
-import math
+from math import factorial
 
 
 def linha():
@@ -17,7 +17,7 @@ def main():
 	
 	c = f
 	
-	fat = math.factorial(f)
+	fat = factorial(f)
 	
 	print(f'-=-=-=-=-=-= FATORIAL DE {f}! -=-=-=-=-=-=')
 	
