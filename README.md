@@ -378,3 +378,19 @@ ex057: solicita que o usuário digite o sexo. Enquanto o sexo for diferente de M
 ![image](https://user-images.githubusercontent.com/50182271/128652116-b085a04e-1dac-4333-93cb-f59d6fced8e2.png)
 
 ex058: jogo de adivinhação, em que o usuário tem infinitas tentativas para acertar o número selecionado, que fica entre 0 e 10.
+
+![image](https://user-images.githubusercontent.com/50182271/129559345-5f75e8ef-4ffa-4d86-b578-2ac48f5fd5d1.png)
+
+
+ex059: o programa inicialmente solicita que o usuário adicione dois valores. Posteriormente, ele exibe um menu com 3 opções de "o que fazer?".
+
+![image](https://user-images.githubusercontent.com/50182271/129559764-328909cd-8f66-4207-a5e6-f6edefd14c79.png)
+
+
+ex060: programa que calcula o fatorial do valor inserido pelo usuário.
+
+![image](https://user-images.githubusercontent.com/50182271/129560266-26c00c4e-431a-4d4c-a014-c0114a137798.png)
+
+
+ex061: 
+
