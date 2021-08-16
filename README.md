@@ -392,5 +392,9 @@ ex060: programa que calcula o fatorial do valor inserido pelo usuário.
 ![image](https://user-images.githubusercontent.com/50182271/129560266-26c00c4e-431a-4d4c-a014-c0114a137798.png)
 
 
-ex061: 
+ex061: calcula a progressão aritmética dos dez primeiros termos de uma Progressão Aritmética(P.A.), sendo que o usuário insere o primeiro termo e a razão da progressão.
 
+![image](https://user-images.githubusercontent.com/50182271/129566880-6bb838f2-b9c7-4d3a-8407-004551dfa3a4.png)
+
+
+ex062: 
