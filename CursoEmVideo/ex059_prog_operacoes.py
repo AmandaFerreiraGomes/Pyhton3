@@ -1,4 +1,4 @@
-""" Exercício 059: """
+""" Desafio 059: """
 
 
 def linha():
