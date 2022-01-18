@@ -2,7 +2,7 @@
 
 
 from adivinhacao_v012 import adivinhacao
-from forca_v001 import forca
+from forca_v003 import forca
 
 
 def linha():
