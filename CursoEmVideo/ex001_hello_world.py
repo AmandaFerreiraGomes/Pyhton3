@@ -1,12 +1,12 @@
-def azul():
-	cores = {
+def azul() -> str:
+	cores : dict = {
 		'azul': '\033[34m'
 	}
 	return cores['azul']
 
 
-def amarelo():
-	cores = {
+def amarelo() -> str :
+	cores : dict = {
 		'amarelo': '\033[33m',
 		'ciano': '\033[36m',
 		'cinza': '\033[37m'
@@ -14,22 +14,22 @@ def amarelo():
 	return cores['amarelo']
 
 
-def vermelho():
-	cores = {
+def vermelho() -> str :
+	cores : dict = {
 		'vermelho': '\033[31m',
 	}
 	return cores['vermelho']
 
 
-def verde():
-	cores = {
+def verde() -> str :
+	cores : dict = {
 		'verde': '\033[32m',
 	}
 	return cores['verde']
 
 
-def roxo():
-	cores = {
+def roxo() -> str:
+	cores : dict = {
 		'roxo': '\033[35m',
 	}
 	return cores['roxo']
